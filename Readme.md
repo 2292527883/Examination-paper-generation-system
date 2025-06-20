@@ -121,7 +121,7 @@ def _format_answers(answers):
 
 ```python
 # 默认试卷标题
-DEFAULT_EXAM_TITLE = "养老护理员资格考试试卷"
+DEFAULT_EXAM_TITLE = "考试试卷"
 
 # 默认考生信息
 DEFAULT_STUDENT_INFO = "姓名：__________  考号：__________"
